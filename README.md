@@ -1,7 +1,5 @@
-# ECG-Arrhythmia-Detection
-ECG arrhythmia classification using signal processing, feature engineering, and machine learning. Includes ECG preprocessing, R-peak detection, heartbeat segmentation, and model evaluation.
 # ECG Arrhythmia Classification
-
+ECG arrhythmia classification using signal processing, feature engineering, and machine learning. Includes ECG preprocessing, R-peak detection, heartbeat segmentation, and model evaluation.
 This project uses ECG signals from the MIT-BIH Arrhythmia Database to classify heartbeats as normal or abnormal using machine learning.
 
 ## What I did
